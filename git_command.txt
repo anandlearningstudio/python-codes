@@ -1,0 +1,13 @@
+git init
+git clone https://github.com/anandlearningstudio/test
+cd test
+
+Make the necessary changes
+
+git status
+git add -A
+git commit -am "Initial Commit"
+git push origin master
+
+
+git pull origin master
